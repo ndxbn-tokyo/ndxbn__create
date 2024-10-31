@@ -14,9 +14,9 @@
   },
   "devDependencies": {
     "@ndxbn/preset-jest": "0.2.4",
-    "@ndxbn/tsconfig": "0.0.20",
+    "@ndxbn/tsconfig": "0.0.23",
     "@types/mustache": "4.2.5",
-    "@types/node": "20.17.1",
+    "@types/node": "20.17.3",
     "typescript": "5.6.3"
   },
   "keywords": [],
